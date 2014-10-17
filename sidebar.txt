@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sba:home|Door43 (sba)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sba|d43-sba repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sba/archive/master.zip|d43-sba.zip]]
+
+**Recent Changes**
+{{changes>ns = sba}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sba|Ethnologue data]]
+
